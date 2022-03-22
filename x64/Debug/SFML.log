@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\Oleg_Olga\source\repos\SFML\SFML\game.cpp(77,49): warning C4244: аргумент: преобразование "size_t" в "float", возможна потеря данных
+  SFML.vcxproj -> C:\Users\Oleg_Olga\source\repos\SFML\x64\Debug\SFML.exe
